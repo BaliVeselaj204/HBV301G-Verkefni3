@@ -56,16 +56,16 @@ mestu máli fyrir framtíðarsýnina og MVP. Rökstyðjið valið. Vísið í
 verkefni 2 í stað þess að endurtaka alla hagsmunaaðilagreininguna. 
 -->
 
-**Val á notendahópi:** [Hvers vegna skiptir þessi hópur mestu máli
-fyrir fyrstu útgáfuna?]
+**Val á notendahópi:** Daglegir ökumenn skipta mestu máli fyrir fyrstu útgáfuna því þeir nota kerfið oftast,
+verða fyrir mestum áhrifum, og BREQ-1 og BREQ-2 snúa beinlínis að þeim.
 
 | Atriði | Lýsing |
 |---|---|
-| Notendahópur og hlutverk | [Hverjir eru þetta og hvaða hlutverki gegna þeir?] |
-| Helsta virði (Major value) | [Hvaða ávinning fá þeir af vörunni?] |
-| Viðhorf (Attitudes) | [Hvaða væntingar eða fyrirvara hafa þeir?] |
-| Helstu áhugamál (Major interests) | [Hvaða eiginleikar og gæði skipta þá mestu máli?] |
-| Takmarkanir (Constraints) | [Hvaða þekktu skilyrði þarf að taka tillit til?] |
+| Notendahópur og hlutverk | Allir sem leggja á gjaldsvæði, hvort sem það er daglega, stöku sinnum eða í fyrsta skipti. Þeir leggja bílnum og kerfið sér um restina |
+| Helsta virði (Major value) | Þau þurfa ekki lengur að kaupa miða, muna eftir að greiða eða óttast sekt. Þau leggja bara og fara, og fá rukkun í netbankann eftir á |
+| Viðhorf (Attitudes) | Flestum finnst gott að þurfa ekki að hugsa um greiðsluna, en vilja vera viss um að kerfið rukki rétt |
+| Helstu áhugamál (Major interests) | Að vera rukkaður fyrir réttan tíma og rétta upphæð, að komur og brottför séu skráðar sjálfkrafa, og að fá greiðslubeiðnina fljótt |
+| Takmarkanir (Constraints) | Það þarf að fylgja persónuverndarlögum, þar sem það skráir hvenær bílar koma og fara |
 
 <!-- Ef þið veljið fleiri en einn hóp/aðila, gerið sérstakan prófíl
 fyrir hvern þeirra. -->
