@@ -25,15 +25,25 @@
 <!-- Lýsið hvaða árangri viðskiptavinur eða stofnun vill ná með kerfinu og hvers vegna. Setjið fram mælanleg markmið þar sem því verður við komið: núverandi staða, æskileg breyting, mælikvarði og tímamörk. Greinið á milli viðskiptalegs árangurs og virkni kerfisins. Tengið markmiðin við þær þarfir sem komu fram í fyrri verkefnum. -->
 <!-- Takið út hornklofa og fyllið inn í - Endurtakið eftir þörfum --> 
 
-### BO-1: [Mælanlegt viðskiptamarkmið og tímamörk]
+### BO-1: Minnka álag ökumanna
 
 | Atriði | Lýsing |
 |---|---|
-| Mælikvarði (Scale) | [Hvað er mælt?] |
-| Mæliaðferð (Meter) | [Hvernig og hvaðan fást mæligögn?] |
-| Fyrri staða (Past) | [Þekkt upphafsstaða en ef hún er ekki þekkt skrifið "ekki þekkt enn" og segið hvernig megi mæla hana] |
-| Markmið (Goal) | [Árangur sem stefnt er að] |
-| Metnaðarmarkmið (Stretch) | [Árangur umfram markmiðið, ef við á] |
+| Mælikvarði (Scale) | Sjálfvirk skráning stæðis |
+| Mæliaðferð (Meter) | Fjöldi skráninga sem eru skráð sjálfkrafa |
+| Fyrri staða (Past) | Ekki þekkt enn. Upphafsstaða verður mæld á fyrirhuguðu innleiðingarsvæði með því að skrá hlutfall heimsókna sem fara fram án handvirkrar stæðisskráningar. Niðurstöður verða greindar eftir núverandi fyrirkomulagi, svo sem sjálfvirkri skráningu, áskrift eða handvirkri skráningu. |
+| Markmið (Goal) | 100% skráninga |
+| Metnaðarmarkmið (Stretch) | Á ekki við |
+
+### BO-2: Minnka vinnuálag hjá umsjónaraðila
+
+| Atriði | Lýsing |
+|---|---|
+| Mælikvarði (Scale) | Tími sem fer í lagfæringu á villum við skráningu, eftirlit og viðbrögð við óskráðum bílum, mælt miðað við seinustu 1000 heimsóknum |
+| Mæliaðferð (Meter) | Umsjónaraðili mælir tímann sem fer í afskipti við skráningar. Heildarvinnustundum er því næst deilt með fjölda heimsókna sem áttu sér stað næst og margfaldað með 1000 |
+| Fyrri staða (Past) | Ekki þekkt enn. Núverandi vinnuframlag verður mælt í vinnustundum á hverjar 1000 heimsóknir, þar með talið vinna sem fer í leiðréttingu á skráningarvillum og einnig eftirlit og viðbrögð við óskráðum bílum. |
+| Markmið (Goal) | 30% færri vinnustundir fyrstu 6 mánuðina |
+| Metnaðarmarkmið (Stretch) | 50% færri vinnustundir fyrstu 6 mánuðina |
 
 
 ## 2. Framtíðarsýn
