@@ -42,7 +42,7 @@ Sjálfvirkt bílastæðakerfi er hugsað fyrir ökumenn og rekstraraðila gjalds
 Ökumenn gleyma oft að greiða, borga fyrir rangan tíma eða fá sekt fyrir mistök, á meðan 
 rekstraraðilar eyða tíma og fé í eftirlit og innheimtu. Kerfið skráir sjálfkrafa hvenær
 bíll kemur og fer, reiknar gjaldið eftir gjaldskrá svæðisins og sendir kröfu í netbanka
-ökumannsins. Ólíkt stöðumælum og forrit, þar sem ökumaður þarf að skrá sig inn
+ökumannsins. Ólíkt stöðumælum og forritum, þar sem ökumaður þarf að skrá sig inn
 og út handvirkt, þarf ekki að muna eða óttast að fá sekt. Það fækkar sektum vegna gleymsku, gerir
 stæðisupplifunina einfaldari og minnkar handvirkt eftirlit rekstraraðilans.
 
