@@ -48,16 +48,13 @@
 
 ## 2. Framtíðarsýn
 
-<!-- Skiptið listanum út fyrir stutta framtíðarsýn í samfelldu máli sem þið getið kynnt fyrir öðrum. Styðjist við atriðin hér að ofan. 
-
-- **Fyrir:** [Hvaða viðskiptavin eða notendahóp?]
-- **Sem:** [Hvaða þörf hefur hópurinn eða hvaða tækifæri er til staðar?]
-- **Er [heiti vöru]:** [Hvers konar vara eða kerfi?]
-- **Sem:** [Hvaða meginvirði eða ávinning skapar varan?]
-- **Ólíkt:** [Núverandi lausn, verklagi eða öðrum valkosti.]
-- **Mun varan:** [Hver er helsti munurinn eða kosturinn?]
-
--->
+Sjálfvirkt bílastæðakerfi er hugsað fyrir ökumenn og rekstraraðila gjaldskyldra bílastæða.
+Ökumenn gleyma oft að greiða, borga fyrir rangan tíma eða fá sekt fyrir mistök, á meðan 
+rekstraraðilar eyða tíma og fé í eftirlit og innheimtu. Kerfið skráir sjálfkrafa hvenær
+bíll kemur og fer, reiknar gjaldið eftir gjaldskrá svæðisins og sendir kröfu í netbanka
+ökumannsins. Ólíkt stöðumælum og forritum, þar sem ökumaður þarf að skrá sig inn
+og út handvirkt, þarf ekki að muna eða óttast að fá sekt. Það fækkar sektum vegna gleymsku, gerir
+stæðisupplifunina einfaldari og minnkar handvirkt eftirlit rekstraraðilans.
 
 ## 3. Prófíll lykilhagsmunaaðila eða mikilvægra notenda
 
