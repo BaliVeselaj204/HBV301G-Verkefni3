@@ -2,13 +2,15 @@
 
 ## Hópavinna og geymsla 
 
-Takið fram hverjir eru í hópnum, hver verkaskiptinging er, hvert Git repository er. 
-Hver og einn á að setja inn og viðhalda geymslunni (Git)
+Hópmeðlimir: Bali, Kristinn Git repo: https://github.com/BaliVeselaj204/HBV301G-Verkefni3.git
 
 ## Verkaskipting
 - Segið hvernig þið skiptið með ykkur verkum, t.d. hvernig þið unnið kröfurnar ein eða alltaf saman
 - Hvernig þið rýnduð kröfurnar hjá hvert öðru
 - Hvernig þið gerðuð pull, commit og push og Pull Request
+
+Við unnum í þessu saman, reyndum að skipta þessu á milli okkar. Við unnum þannig að við gerðum alltaf
+breytingar í sér grein (branch) og svo gerðum pull request svo hin 
 
 ## Ígrundun
 - Í lok verkefnis gerið endurmat á verkefninu:
