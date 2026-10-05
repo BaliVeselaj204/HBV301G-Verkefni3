@@ -1,13 +1,27 @@
-# Verkefni 3 – Sýn og umfang  
+# Verkefni 3 — Sýn og umfang — Sjálfvirkt bílastæðakerfi
 
-Þetta repo er Template repo - Notaðu "Use this template" til að búa til þitt eigið repo
-fyrir verkefni 3. Uppfærðu þetta README skjal til að lýsa repo-inu þínu 
+Verkefni í HBV301G – Hugbúnaðarkröfugreiningu. Hér eru sett fram viðskiptamarkmið, framtíðarsýn og umfang fyrstu útgáfu (MVP) sjálfvirks bílastæðakerfis, byggt á vinnu úr verkefnum 1 og 2.
 
-Þessi mappa inniheldur efnið sem beðið er um í verkefninu.
+## Um kerfið
 
--- **VISIONSCOPE.md 
+Kerfið skráir sjálfkrafa komu og brottför ökutækja, reiknar bílastæðagjald út frá dvalartíma og gjaldskrá og sendir greiðslubeiðni í heimabanka. Markmiðið er að draga úr fyrirhöfn ökumanna og handvirkri vinnu umsjónaraðila.
 
--- **VERKASKIPTING-IGRUNDUN.md Í lokin lýsa nemendur verkaskiptingu og ígrunda verkefnið
+## Aðalskjal
 
--- **updatevisionhistory.sh - shell skripta til að búa til breytingasögu í VISIONSCOPE.md
+[Viðskiptamarkmið, framtíðarsýn og MVP](VISION-MVP.md)
 
+Skjalið fjallar um:
+
+1. Viðskiptamarkmið og mælingar á árangri.
+2. Framtíðarsýn kerfisins.
+3. Lykilnotendur og þarfir þeirra.
+4. Forgangsröðun verkefnisins.
+5. Umfang fyrstu útgáfu, síðari viðbætur og útilokanir.
+
+## Umfang fyrstu útgáfu
+
+- Sjálfvirk greining bílnúmers og tenging við réttan notanda.
+- Nákvæm skráning komu- og brottfarartíma.
+- Útreikningur bílastæðagjalds og sjálfvirk sending greiðslubeiðni.
+
+Áskriftir eða afslættir, tilkynningar við upphaf skráningar og yfirlit yfir fyrri heimsóknir bíða síðari útgáfu. Fyrirfram bókun bílastæða er utan fyrirhugaðs umfangs kerfisins.
