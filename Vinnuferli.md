@@ -2,28 +2,22 @@
 
 ## Hópavinna og geymsla 
 
-Takið fram hverjir eru í hópnum, hver verkaskiptinging er, hvert Git repository er. 
-Hver og einn á að setja inn og viðhalda geymslunni (Git)
+Hópmeðlimir: Bali, Kristinn Git repo: https://github.com/BaliVeselaj204/HBV301G-Verkefni3.git
 
 ## Verkaskipting
-- Segið hvernig þið skiptið með ykkur verkum, t.d. hvernig þið unnið kröfurnar ein eða alltaf saman
-- Hvernig þið rýnduð kröfurnar hjá hvert öðru
-- Hvernig þið gerðuð pull, commit og push og Pull Request
+Við unnum verkefnið saman og skiptum verkum á milli okkar eftir því sem við átti. Hvor um sig vann sínar
+breytingar í eigin grein (branch) og opnaði pull request þegar verki var lokið. Hitt okkar fór þá
+yfir breytingarnar, spurði spurninga ef eitthvað var óljóst, eða sameinaði í main ef allt var í lagi.
 
 ## Ígrundun
-- Í lok verkefnis gerið endurmat á verkefninu:
-    - Hvað gekk vel í verkefninu
-    - Hvað má bæta næst
+Allt gekk mjög vel. Við reyndum að skipta verkum á milli okkar svo við vorum báðir með nóg til að gera.
+Ekkert sérstakt sem við myndum vilja breyta held ég. Við erum alltaf að reyna gera okkar besta og bæta
+upp á þeim hlutum sem við gátum gert betra í fyrri verkefnum og því sem við tókum eftir.
 
 ### Gagnsæisyfirlýsing um notkun gervigreindar
 
-Ef þið notið gervigreind við vinnslu verkefnisins skal koma fram:
-
-- hvaða gervigreindarverkfæri voru notuð,
-- hvaða kvaðningar (prompts) voru notaðar,
-- í hvaða tilgangi gervigreind var notuð,
-- hvernig þið breyttuð gervigreindarúttakinu og/eða nýttuð það?
-
-Þið skuluð einnig lýsa því yfir að þið hafið yfirfarið efni sem kemur frá gervigreind og berið ábyrgð á öllu efni sem þið skilið.
-Ef gervigreind var ekki notuð við vinnslu verkefnisins skal það koma fram í gagnsæisyfirlýsingunni.
-
+Við notuðum aðallega Claude og ChatGPT. Þessi gervigreindarmódel gefa ekki alltaf raunveruleg eða nákvæm svör,
+svo allt sem við spurðum um var vandlega yfirfarið. Þetta er líka ein ástæðan fyrir því að við notuðum frekar
+smærri kvaðningar, t.d. "Hvaða hugmyndir höfum við um leiðir til að mæla ákveðið viðskiptamarkmið?" Oftast var
+ég ekki alveg sáttur við svarið sem kom til baka og gat ekki notað beint hugmyndina, en þá þurfti að laga það,
+lesa vel yfir og meta hvort það passaði við það sem við höfðum í huga og hvort það væri raunhæft.
