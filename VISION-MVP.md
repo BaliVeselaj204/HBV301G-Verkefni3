@@ -102,21 +102,34 @@ fyrstu útgáfu, ekki endurtaka kerfismörkin úr verkefni 1. -->
 
 ### 5.1 Umfang fyrstu útgáfu (MVP)
 
-Lýsið hvað notendur geta gert með fyrstu útgáfunni og hvaða nauðsynlegu
-gæði hún þarf að hafa til að skila virði. Rökstyðjið valið með hliðsjón
-af mikilvægustu notendum og viðskiptamarkmiðum.
+Í fyrstu útgáfu þarf kerfið að geta framið helstu aðgerðirnar sem nauðsynlegar eru
+til þess að skrá inn réttar upplýsingar af sem mestri nákvæmni og mögulegt er.
+Upplýsingarnar teljast nægilega nákvæmar ef kerfið nemur bíl þegar hann kemur inn á svæðið,
+finnur réttan notanda út frá bílnúmeri, hefji talningu skömmu síðar, nemi þegar bíllinn
+yfirgefur svæðið og lýkur talningu samtímis og í kjölfarið sendi greiðslubeiðni til notanda.
+Notandinn á að geta komið inn á svæðið, lagt bílnum og að lokum yfirgefið svæðið án
+þess að hafa áhyggjur af yfirvonandi sekt og getur búist við að fá sent til sín
+greiðslubeiðni í heimabanka.
+Því meiri nákvæmni því mun minna álag mun umsjónaraðili finna fyrir, því er óskandi
+að hlutfall afskipta vegna villna frá kerfinu sé sem minnst og að umsjónaraðili fái að 
+sjá meira um önnur mikilvægari skyldur.
 
-Byggið á kröfum og hugmyndum úr verkefnum 1 og 2 eftir því sem við á.
-Þið megið endurskoða þær og bæta við nýjum eiginleikum þegar sýnin
-og umfang fyrstu útgáfu skýrast.
 
 | Hvað þarf að vera í MVP? | Hvers vegna? | Tengsl við fyrri verkefni, ef við á |
 |---|---|---|
-| [Eiginleiki eða nauðsynleg gæði] | [Virði fyrir notendur og tengsl við BO] | [T.d. F-1 úr V1, notendaþörf úr V2 eða „nýtt“] |
+| Sjálfvirk greining bílnúmers og tenging við réttan notanda. | Gerir ökumanni kleift að leggja án miða eða handvirkrar skráningar og dregur þannig úr fyrirhöfn. | BREQ-2 úr V1 |
+| Skráning komu- og brottfarartíma og útreikningur bílastæðagjalds. | Tryggir að gjaldið byggist á raunverulegum dvalartíma og dregur úr þörf á leiðréttingum. | F-1 og F-2 úr V1 |
+| Sjálfvirk sending greiðslubeiðni í heimabanka. | Dregur úr fyrirhöfn ökumanns og handvirkri vinnu við innheimtu. | F-2 úr V1 |
+| Nákvæm og áreiðanleg skráning bílnúmera og tímasetninga. | Dregur úr skráningarvillum og vinnu umsjónaraðila við leiðréttingar. | QA-1 úr V1 |
 
 ### 5.2 Rökstuðningur fyrir vali í fyrstu útgáfu
 
-[Útskýrið hvers vegna þessi atriði voru valin í MVP. Vísið í forgangsröðun verkefnisins í kafla 4, viðskiptamarkmiðin og þarfir lykilhagsmunaaðila.]
+Þeir eiginleikar sem við lögðum fram skráðum við með háan forgang og þeir hagsmunaaðilar sem hafa 
+sem mestan áhuga á kerfinu, ökumenn og umsjónar/rekstraraðilar, njóta sem mest góðs af gefnum eiginleikum
+þar sem bæði álag á ökumenn og vinnutími umsjónaraðila minnkar til muna. 
+Út frá forgangsröðun verkefnisins þar sem við flokkum eiginleikana sem drifkraft og gæði sem takmörkun
+teljum við því við hæfi að leggja þessa eiginleika fram í fyrstu útgáfu.
+
 
 ### 5.3 Hvað bíður síðari útgáfu?
 
