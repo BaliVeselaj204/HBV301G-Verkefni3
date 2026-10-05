@@ -133,17 +133,12 @@ teljum við því við hæfi að leggja þessa eiginleika fram í fyrstu útgáf
 
 ### 5.3 Hvað bíður síðari útgáfu?
 
-[Nefnið mikilvæga eiginleika úr framtíðarsýninni sem verða ekki í fyrstu
-útgáfu. Útskýrið hvers vegna þeir geta beðið án þess að MVP missi gildi sitt.]
-
 | Eiginleiki | Ástæða þess að hann getur beðið |
 |---|---|
-| [Eiginleiki] | [Rökstuðningur] |
-
+| Tilkynning til notanda þegar hann er skráður í stæði. | Sjálfvirk skráning og sending greiðslubeiðni virka án þessarar tilkynningar. Hún veitir ökumanni aukna staðfestingu en er ekki forsenda kjarnavirkni kerfisins. |
+| Áskriftir eða afslættir fyrir reglulega notendur. | Ekki nauðsynlegt fyrir fyrstu útgáfu þar sem notendur þurfa aðeins eiginleika úr fyrstu útgáfu til þess að geta borgað, en úrræði fyrir notendur sem nýta sér þjónustuna oft getur verið góð viðbót í framtíðinni. |
+| Saga notanda, yfirlit yfir fyrri skráningar. | Það getur gefið notendanum aukið gagnsæi að geta séð yfirlit yfir fyrri heimsóknum en þó er það ekki mikilvægt fyrir grunnvirkni kerfisins. | 
 ### 5.4 Takmarkanir og útilokanir
 
-[Skráið það sem fólk gæti búist við að varan geri en verður ekki hluti
-af henni í neinni fyrirhugaðri útgáfu. Ef engar slíkar útilokanir
-liggja fyrir, segið það stuttlega. Atriði sem bíða síðari útgáfu eiga
-heima í kafla 5.3.]
-
+Það eru ekki margir eiginleikar sem notendur gætu búist við að kerfið bjóði upp á, sem það í raun gerir ekki,
+en eitt dæmi um slíkt gæti verið fyrirfram bókun á stæði, ekki er fyrirhugað að bæta þeim eiginleika við.
