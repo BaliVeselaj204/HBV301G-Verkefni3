@@ -87,11 +87,11 @@ og þarfir og væntingar lykilhagsmunaaðila.
 
 | Vídd | Flokkun | Rökstuðningur |
 |---|---|---|
-| Eiginleikar | [Driver / Constraint / Degree of freedom] | [Hvaða eiginleikar skipta mestu máli og hvers vegna?] |
-| Gæði | [Driver / Constraint / Degree of freedom] | [Hvaða gæði þurfa að ná tilteknu marki?] |
-| Tímasetningar | [Driver / Constraint / Degree of freedom] | [Er afhending á ákveðnum tíma nauðsynleg eða sveigjanleg?] |
-| Kostnaður | [Driver / Constraint / Degree of freedom] | [Er fastur fjárhagsrammi eða svigrúm til breytinga?] |
-| Mannafli | [Driver / Constraint / Degree of freedom] | [Er teymisstærð eða aðgengi að fólki fast eða sveigjanlegt?] |
+| Eiginleikar | Drifkraftur | BO-1 og BO-2 nást því aðeins að kerfið skrái komu og brottför sjálfkrafa og sendi greiðslubeiðni án inngrips. Þessir eiginleikar eru kjarni vörunnar — án þeirra skilar hún engu virði, svo þeir ráða umfangi frekar en að vera samningsatriði. |
+| Gæði | Takmörkun | Nákvæmni skráningar þarf að ná ákveðnu lágmarki, annars er markmið BO-1 um 100% sjálfvirkar skráningar óraunhæft. Fari nákvæmnin undir það mark minnkar traust bæði ökumanna og rekstraraðila á kerfinu. |
+| Tímasetningar | Frígráða | Engin ytri tímasetning, samningur eða viðburður krefst þess að kerfið sé tilbúið á nákvæmlega ákveðnum degi. Útgáfu má fresta ef þörf krefur án þess að það ógni viðskiptamarkmiðunum. |
+| Kostnaður | Takmörkun | Verkefnið er unnið innan fasts fjárhagsramma án svigrúms fyrir viðbótarfjárfestingu í vélbúnaði umfram það sem þegar er til staðar á innleiðingarsvæðinu. |
+| Mannafli | Takmörkun | Teymið sem vinnur verkefnið er fast að stærð og hefur takmarkaðan tíma, svo ekki er hægt að bæta við fólki til að auka umfang eða flýta fyrir. |
 
 
 ## 5. Umfang fyrstu útgáfu (MVP)
