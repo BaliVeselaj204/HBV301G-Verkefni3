@@ -4,11 +4,11 @@
 
 **Verkefni 3 — Vision and Scope**
 
-**Heiti kerfis:** [Heiti]
+**Heiti kerfis:** Sjálfvirkt bílastæðakerfi
 
-**Teymi og höfundar:** [Númer teymis og full nöfn]
+**Teymi og höfundar:** Hópur 5: Bali Nói Veselaj, Kristinn Freyr Óskarsson
 
-**Git repository:** [Slóð]
+**Git repository:** https://github.com/BaliVeselaj204/HBV301G-Verkefni3.git
 
 ## Efnisyfirlit
 
